@@ -15,6 +15,7 @@ public struct Restaurant {
     public var popularDishes: [String]
     public var atmosphere: String
     public var parking: BooleanLiteralType
-    
+
+    public var imageName: String
 }
 
